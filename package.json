@@ -1,0 +1,9 @@
+{
+  "name": "bulklens",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bulk deal and client intelligence dashboard",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
